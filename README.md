@@ -1,1 +1,1 @@
-Download a raw file and the unzip it to view the entire project
+Download a raw file and then unzip it to view the entire project
